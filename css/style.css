@@ -17,11 +17,13 @@
   --accent2: #818cf8;
 
   /* Couleurs de catégories moins saturées */
-  --col-gaming:     #94a3b8;
-  --col-reading:    #2dd4bf;
-  --col-workout:    #fb923c;
   --col-life:       #60a5fa;
+  --col-reading:    #2dd4bf;
+  --col-fitness:    #fb923c;
+  --col-gaming:     #94a3b8;
+  --col-work:       #f472b6;
   --col-archives:   #94a3b8;
+  
 
   /* Typographie plus standard et lisible */
   --font-display: 'Inter', system-ui, sans-serif;
