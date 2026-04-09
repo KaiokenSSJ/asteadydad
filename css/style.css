@@ -21,7 +21,7 @@
   --col-reading:    #2dd4bf;
   --col-fitness:    #fb923c;
   --col-gaming:     #94a3b8;
-  --col-work:       #f472b6;
+  --col-work:       #a78bfa;
   --col-archives:   #94a3b8;
   
 
@@ -198,8 +198,9 @@ img { max-width: 100%; display: block; border-radius: var(--radius); }
 /* Couleurs de tags adoucies */
 .tag-gaming     { color: #fff; background: #64748b; }
 .tag-reading     { color: #fff; background: #0d9488; }
-.tag-workout     { color: #fff; background: #c2410c; }
+.tag-fitness     { color: #fff; background: #c2410c; }
 .tag-life { color: #fff; background: #2563eb; }
+.tag-work { color: $fff; background: #6d28d9;]
 
 .post-card-title {
   font-size: 1.4rem;
