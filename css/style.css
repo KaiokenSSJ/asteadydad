@@ -130,7 +130,7 @@ img { max-width: 100%; display: block; }
    HERO
 ============================================ */
 .hero {
-  padding: 80px 24px;
+  padding: 60px 24px 40px;
   max-width: 1000px;
   margin: 0 auto;
 }
@@ -207,7 +207,7 @@ img { max-width: 100%; display: block; }
   display: flex;
   flex-direction: column;
   gap: 12px;
-  max-width: 760px;
+  max-width: 680px;
 }
 
 .posts-list--full { max-width: 760px; }
