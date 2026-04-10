@@ -805,11 +805,12 @@ img { max-width: 100%; display: block; }
   flex-direction: row;
   align-items: center;
   gap: 20px;
+  min-height: 160px;
 }
 
 .post-card-thumb {
-  width: 120px;
-  height: 120px;
+  width: 160px;
+  height: 160px;
   flex-shrink: 0;
   border-radius: 10px;
   overflow: hidden;
