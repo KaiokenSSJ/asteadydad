@@ -200,7 +200,7 @@ img { max-width: 100%; display: block; border-radius: var(--radius); }
 .tag-reading     { color: #fff; background: #0d9488; }
 .tag-fitness     { color: #fff; background: #c2410c; }
 .tag-life { color: #fff; background: #2563eb; }
-.tag-sound { color: #fff; background: #4c1d95;}
+.tag-sound { color: #fff; background: #4c1d95; }
 
 .post-card-title {
   font-size: 1.4rem;
