@@ -21,7 +21,7 @@
   --col-reading:    #2dd4bf;
   --col-fitness:    #fb923c;
   --col-gaming:     #94a3b8;
-  --col-sound:       #a78bfa;
+  --col-sound:      #a78bfa;
   --col-archives:   #94a3b8;
   
 
@@ -200,7 +200,7 @@ img { max-width: 100%; display: block; border-radius: var(--radius); }
 .tag-reading     { color: #fff; background: #0d9488; }
 .tag-fitness     { color: #fff; background: #c2410c; }
 .tag-life { color: #fff; background: #2563eb; }
-.tag-sound { color: $fff; background: #4c1d95;}
+.tag-sound { color: #fff; background: #4c1d95;}
 
 .post-card-title {
   font-size: 1.4rem;
@@ -526,7 +526,7 @@ img { max-width: 100%; display: block; }
 .tag-fitness    { color: var(--col-fitness);    background: rgba(251,146,60,.12); }
 .tag-life       { color: var(--col-life); background: rgba(96,165,250,.12); }
 .tag-archives   { color: var(--col-archives);   background: rgba(148,163,184,.12); }
-.tag-sound       { color: var(--col-sound); background: rgba(167, 139, 250, .12); }
+.tag-sound      { color: var(--col-sound); background: rgba(167, 139, 250, .12); }
 
 .post-date, .reading-time { font-size: 0.78rem; color: var(--text-dim); }
 
