@@ -1,0 +1,28 @@
+---
+title: "SysAdmin to DevOps: The beginning!"
+date: 2026-04-09
+draft: false
+summary: "I just learned that I need to pick up DevOps for my job. I’m starting from zero, but it's an exciting challenge! With a new manager and new processes, the goals are clear: automation, cloud, and dashboards."
+tags: ["work"]
+---
+
+
+I have some training planned for Azure and Terraform soon. In the meantime, I’m teaching myself the basics: Git Bash and Postman.
+
+![devops_robot](https://KaiokenSSJ.github.io/asteadydad/images/devops_start_robot.png)
+
+I also finally started using Visual Studio Code. I spent some time configuring it, and it’s really nice! Before this, I was always using PowerShell ISE.
+
+> Practicing with Git
+
+I’m using my blog to learn the Git workflow. The basics are okay because there are many "cheat sheets" online, but I need to practice branch management more.
+
+I might test pushing and pulling from different devices. I want to see how it works and make sure I don't overwrite my data by mistake!
+
+> API and Monitoring
+
+I spent an afternoon testing Postman. I recently deployed Veeam ONE, so I practiced with its API. It took some time to understand the tokens and authentication, but I managed to get quite a lot of information.
+
+However, I’m stuck on one thing: I haven't managed to pull the list of jobs and their status yet. It just keeps looping, and I haven't found the solution for now.
+
+Despite that, my next goal is to try to build an HTML dashboard to see the backup status of all our subsidiaries. I thought about using Grafana, but the team doesn't want too many different tools for now. We’ll see!
