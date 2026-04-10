@@ -208,6 +208,7 @@ img { max-width: 100%; display: block; }
   flex-direction: column;
   gap: 12px;
   max-width: 680px;
+  margin: 0 auto;
 }
 
 .posts-list--full { max-width: 760px; }
